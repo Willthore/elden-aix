@@ -1,5 +1,6 @@
 ## Stromveil Castle
 Nous débloquons la zone Stromveil Castle, dans les premières heures de jeux. Cette zone accueille le premier boss principal du jeux, du nom de "[Godrick the Grafted](https://eldenring.wiki.fextralife.com/Godrick+the+Grafted)".
+
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/storm.jpg)
 
 ## Le Haligtree et Elphael
