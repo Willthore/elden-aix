@@ -11,3 +11,8 @@ Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-
 
 [elden ring](https://www.google.com) 
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/elden_aix.jpg "Logo Title Text 1")
+
+---
+
+[Let me solo her](https://github.com/Willthore/elden-aix/blob/main/let%20me%20solo%20her.md)
+![alt text](https://github.com/Willthore/elden-aix/blob/main/fun.jpg)
