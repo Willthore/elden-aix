@@ -28,4 +28,4 @@ Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-
 
 [Quelques easter egg](https://github.com/Willthore/elden-aix/blob/main/easter%20egg.md)
 
-![alt text](https://github.com/Willthore/elden-aix/blob/main/lieu%20important.md)
+![alt text](https://github.com/Willthore/elden-aix/blob/main/egg.jpg)
