@@ -2,6 +2,9 @@
 
 ## premier easter egg
 L'épée rafted Blade Greatsword est une référence à la série Game of Thrones.
+![alt text](https://github.com/Willthore/elden-aix/blob/main/iron-throne-greatsword-1646086761421.jpg)
+
+---
 
 ## Deuxsième easter egg
 L'arbre d'elden est le même arbre que dans le manga Berserk.
