@@ -9,7 +9,7 @@ Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-
 
 ## Choisie un thèmes importants
 
-[elden ring](https://www.google.com) 
+[elden ring](https://github.com/Willthore/elden-aix/blob/main/elden%20ring.md) 
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/elden_aix.jpg "Logo Title Text 1")
 
 ---
