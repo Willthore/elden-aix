@@ -13,3 +13,8 @@ Depuis le 15 juillet 2022, Elden Ring rentre dans le ''top 10'' des jeux vidéos
 
 ## Récompenses
 
+| Année 	      | Récompense    |	Catégorie 
+| ------------- |:-------------:| -----:|
+| 2020      |The Game Awards 2020| Jeu le plus attendu  |
+| 2021      | Golden Joystick Awards 2021      |   Jeu le plus attendu  |
+| 2021      | The Game Awards 2021      |    Jeu le plus attendu  |
