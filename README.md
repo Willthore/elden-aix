@@ -3,7 +3,7 @@
 
 C'est un projet sur elden ring et ses légendes !!
 
-Nous sommes des étudiants d'aix en ### BUT.
+Nous sommes des étudiants d'aix en BUT.
 
 Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-aix. 
 
