@@ -23,3 +23,9 @@ Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-
 [Des lieux importants](https://github.com/Willthore/elden-aix/blob/main/lieu%20important.md)
 
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/fde.webp)
+
+---
+
+[Quelques easter egg](https://github.com/Willthore/elden-aix/blob/main/easter%20egg.md)
+
+![alt text](https://github.com/Willthore/elden-aix/blob/main/lieu%20important.md)
