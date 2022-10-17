@@ -17,3 +17,9 @@ Vous pouvez choisir les diférents thème que vous pouvais consulter pour Elden-
 [Let me solo her](https://github.com/Willthore/elden-aix/blob/main/let%20me%20solo%20her.md)
 
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/let_me_solo_her.jpg)
+
+---
+
+[Des lieux importants](https://github.com/Willthore/elden-aix/blob/main/lieu%20important.md)
+
+![alt text][https://github.com/Willthore/elden-aix/blob/main/fde.webp]
