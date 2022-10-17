@@ -1,1 +1,2 @@
+## Let me solo her
 Let me solo her est un joueur de elden ring qui a réussi à battre le boss le plus fort du jeux (malenia) et qui aide les autre joueur à la battre. Cette personne arrive a battre ce boss avec seulement 2 katana (Rivière sanglante, Uchigatana) et une jar sur la tête. Il arrive à battre ce boss sans être touché par ses attaques.
