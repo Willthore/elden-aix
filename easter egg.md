@@ -9,3 +9,5 @@ L'épée _[rafted Blade Greatsword](https://www.gamepur.com/guides/where-to-find
 ## Deuxsième easter egg
 L'arbre d'elden est le même arbre que dans le manga _[Berserk](https://fr.wikipedia.org/wiki/Berserk_(manga))_.
 ![alt text](https://github.com/Willthore/elden-aix/blob/main/E3jHqKfWUA0z3z2.jpeg) ![alt text](https://github.com/Willthore/elden-aix/blob/main/E3l-2ZKWUAEJ8St.jpg)
+
+[Suite du Wiki](https://github.com/Willthore/elden-aix/edit/main/Suite%20du%20Wiki.md)
